@@ -21,7 +21,9 @@ Extrator de paleta de cores com interface gráfica feita em Python. Carregue qua
 
 ## 📸 Preview
 
-> Carregue uma imagem e o programa analisa automaticamente as cores dominantes usando o algoritmo K-Means.
+![Demo](screenshots/demo.png)
+![Demo 1](screenshots/demo1.png)
+![Demo 2](screenshots/demo2.png)
 
 ---
 
